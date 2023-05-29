@@ -2,3 +2,6 @@
 .imagem-logo{width: 150px;px;}
 .cabeçalho-lista{display: inline-block;margin:0 16px;}
 .site{background-color: rgb(255, 255, 255); color :rgb(20, 83, 6);}
+.immagem-jogadores{width: 100px; height: 80px}
+.rodapé{background-color: #ffffff; color: rgb(9, 109, 39); display: flex;}
+.jogadores-div{display: inline-block;}
