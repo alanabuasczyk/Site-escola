@@ -3,7 +3,7 @@
 .cabeçalho-lista{display: inline-block;margin:0 16px;}
 .site{background-color: rgb(255, 255, 255); color :rgb(6,80,12);}
 .immagem-jogadores{width: 100px; height: 80px}
-.rodape{background-color: rgb(6, 80, 12); color: #ffffff;display:flex; justify-content: space-around;
-.jogadores-div{display: inline-block;
+.rodape{background-color: rgb(6, 80, 12); color: #ffffff;display:flex; justify-content: space-around;}
+.jogadores-div{display: inline-block;}
 .jogadores{text-align: center; color:rgb(6,80 , 12)}
-.clube{text-align: center; color: rgb(6,80 , 12); font-weight: 700; font-size: 20px;}
+.clube{text-align: center; color: rgb(6, 80, 12); font-weight: 700; font-size: 20px;}
