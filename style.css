@@ -1,9 +1,10 @@
-.cabeçalho{background-color: #ffffff; color: rgb(6, 80, 12); display: flex; justify-content: space-around;}
+.cabeçalho{background-color: #065232; color: rgb(255, 255, 255); display: flex; justify-content: space-around;}
 .imagem-logo{width: 150px;px;}
 .cabeçalho-lista{display: inline-block;margin:0 16px;}
-.site{background-color: rgb(255, 255, 255); color :rgb(6,80,12);}
+.site{background-color: rgb(8, 85, 8); color :rgb(255, 255, 255);}
 .immagem-jogadores{width: 100px; height: 80px}
-.rodape{background-color: rgb(6, 80, 12); color: #ffffff;display:flex; justify-content: space-around;}
+.rodape{background-color: rgb(253, 255, 253); color: #064b15;display:flex; justify-content: space-around;}
 .jogadores-div{display: inline-block;}
-.jogadores{text-align: center; color:rgb(6,80 , 12)}
-.clube{text-align: center; color: rgb(6, 73, 6); font-weight: 700; font-size: 20px;}
+.jogadores{text-align: center; color:rgb(5, 80, 14)}
+.clube{text-align: center; color: rgb(0, 70, 12); font-weight: 700; font-size: 20px;}
+.titulos{text-align: center; color: rgb(5, 85, 45);}
